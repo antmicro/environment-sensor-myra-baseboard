@@ -1,7 +1,7 @@
 # Environment sensor SiP Baseboard
 Copyright (c) 2024 [Antmicro](https://www.antmicro.com/)
 
-![Visualization](environment-sensor-sip-baseboard_top_photo_paper_black.png)
+![Visualization](img/environment-sensor-sip-baseboard_top_photo_paper_black.png)
 
 ## Overview
 
