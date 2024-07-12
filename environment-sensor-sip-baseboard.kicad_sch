@@ -666,7 +666,7 @@
       (property "ki_keywords" "IC" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (property "ki_description" "Antmicro GEM3 SiP" (at 0 0 0)
+      (property "ki_description" "Antmicro MYRA SiP" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
       (symbol "Myra-231F1F08_1_1"
