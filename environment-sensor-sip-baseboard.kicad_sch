@@ -5,7 +5,7 @@
   (paper "A3")
 
   (title_block
-    (title "SiP Baseboard")
+    (title "MYRA SiP Baseboard")
     (date "2024-06-28")
     (rev "1.0.0")
     (company "Antmicro ")
