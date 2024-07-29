@@ -1,14 +1,13 @@
-# Environment sensor SiP Baseboard
+# Environment Sensor MYRA SiP Baseboard
 Copyright (c) 2024 [Antmicro](https://www.antmicro.com/)
 
 ![Visualization](img/environment-sensor-sip-baseboard_top_photo_paper_black.png)
 
 ## Overview
 
-This repository contains open hardware design files for an baseboard for [MYRA SiP](https://github.com/antmicro/myra-sip) 
-with temperature, pressure and humidity sensors.
+This repository contains open hardware design files for Antmicro's Environment Sensor Board variant which includes the [MYRA SiP](https://github.com/antmicro/myra-sip) as well as temperature, pressure and humidity sensors.
 
-The design files were prepared in KiCad 7
+The design files were prepared in KiCad 7.
 
 ## Key features
 
@@ -44,6 +43,4 @@ The remaining files are stored in the following directories:
 * `img` - contains graphics for this README
 
 ## Licensing
-This project is published under the [Apache-2.0](https://github.com/antmicro/antmicro-environment-sensor-hw/blob/main/LICENSE) license.
-
-
+This project is published under the [Apache-2.0](https://github.com/antmicro/myra-sip/blob/main/LICENSE) license.
