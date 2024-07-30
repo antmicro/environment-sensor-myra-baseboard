@@ -1,7 +1,7 @@
 # Environment Sensor MYRA SiP Baseboard
 Copyright (c) 2024 [Antmicro](https://www.antmicro.com/)
 
-![Visualization](asssets/previews/rightT.png)
+![Visualization](assets/previews/rightT.png)
 
 ## Overview
 
