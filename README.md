@@ -1,7 +1,7 @@
 # Environment Sensor MYRA SiP Baseboard
 Copyright (c) 2024 [Antmicro](https://www.antmicro.com/)
 
-![Visualization](img/environment-sensor-sip-baseboard_top_photo_paper_black.png)
+![Visualization](asssets/previews/rightT.png)
 
 ## Overview
 
@@ -12,27 +12,21 @@ The design files were prepared in KiCad 7.
 ## Key features
 
 * Environment sensor SiP (with STM32G491REI6 MCU, 128kB FRAM, FTDI FT231XQ USB to UART converter)
-
-* 50.00 mm X 26.50 mm PCB SIZE
-
+* 50 mm x 26.5 mm PCB size
 * USB-C Connector for data and power
-
 * SHT45 temperature + humidity sensor:
-	* Typ. relative humidity accuracy ±1% RH
-	* Operating relative humidity range 0 - 100% RH
-	* Typ. temperature accuracy ±0.1 °C
-	* Operating temperature range (-40) - (+125) °C
-
+	* typical relative humidity accuracy ±1% RH
+	* operating relative humidity range 0-100% RH
+	* typical temperature accuracy ±0.1°C
+	* operating temperature range -40-125°C
 * BME280 temperature + humidity + pressure sensor:
-	* Typ. relative humidity accuracy ±3% RH
-	* Operating relative humidity range 10 - 100% RH
-	* Typ. temperature accuracy ±1 °C
-	* Operating temperature range (-40) - (+85) °C
-	* Typ. pressure accuracy ±1 hPa
-	* Operating pressure range 300 - 1100 hPa
-
+	* typical relative humidity accuracy ±3% RH
+	* operating relative humidity range 10-100% RH
+	* typical temperature accuracy ±1°C
+	* operating temperature range -40-85°C
+	* typical pressure accuracy ±1 hPa
+	* operating pressure range 300-1100 hPa
 * QWIIC Connectors
-
 * RTC battery backup
 
 ## Repository structure
@@ -40,7 +34,8 @@ The design files were prepared in KiCad 7.
 The main repository directory contains KiCad PCB project files, a LICENSE, and a README.
 The remaining files are stored in the following directories:
 
-* `img` - contains graphics for this README
+* `doc` - contains board schematic
+* `assets` - contains visual assets for showcasing this design on [Open Hardware Portal](https://openhardware.antmicro.com/boards/environment-sensor-sip-baseboard/?tab=features&view=top-ortho).
 
 ## Licensing
-This project is published under the [Apache-2.0](https://github.com/antmicro/myra-sip/blob/main/LICENSE) license.
+This project is published under the [Apache-2.0](https://github.com/antmicro/environment-sensor-sip-baseboard//blob/main/LICENSE) license.
